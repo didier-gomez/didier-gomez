@@ -2,7 +2,7 @@
 
 
 [![Linkedin: didier gomez](https://img.shields.io/badge/-Didier_Gomez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/didier-gomez-lemus-841390198/)](https://www.linkedin.com/in/didier-gomez-lemus-841390198/)
-![GitHub followers](https://img.shields.io/github/followers/didier-gomez?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/didier-gomez?label=Followers&style=social)
 
 ```javascript
 const Didier = {
